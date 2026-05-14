@@ -1,0 +1,9 @@
+{
+  "name": "sviam-take-home",
+  "version": "1.0.0",
+  "description": "SVIAM AI Engineering Intern Take-Home",
+  "scripts": {
+    "evaluate": "node evaluate.js"
+  },
+  "dependencies": {}
+}
